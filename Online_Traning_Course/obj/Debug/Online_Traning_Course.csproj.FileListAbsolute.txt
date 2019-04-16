@@ -1,0 +1,136 @@
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\ApplicationInsights.config
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\roslyn\csc.exe
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\roslyn\System.Collections.Immutable.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\roslyn\vbc.exe
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\roslyn\VBCSCompiler.exe
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\roslyn\VBCSCompiler.exe.config
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Online_Traning_Course.dll.config
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Online_Traning_Course.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Online_Traning_Course.pdb
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.Web.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.WindowsServer.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.ApplicationInsights.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.Web.xml
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.WindowsServer.xml
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.ApplicationInsights.xml
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.csprojResolveAssemblyReference.cache
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.dll
+c:\users\shamsi\documents\visual studio 2015\Projects\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.pdb
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\ApplicationInsights.config
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\roslyn\csc.exe
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\roslyn\vbc.exe
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\roslyn\VBCSCompiler.exe
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Online_Traning_Course.dll.config
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Online_Traning_Course.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Online_Traning_Course.pdb
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.Web.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.Web.xml
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.csprojResolveAssemblyReference.cache
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.dll
+C:\Users\DCL\Desktop\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.pdb
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\ApplicationInsights.config
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\roslyn\csc.exe
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\roslyn\vbc.exe
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\roslyn\VBCSCompiler.exe
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Online_Traning_Course.dll.config
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Online_Traning_Course.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Online_Traning_Course.pdb
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.Web.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.Web.xml
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.dll
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.pdb
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.csprojAssemblyReference.cache
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.csproj.CoreCompileInputs.cache
+C:\Users\DCL\Desktop\Agasa\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.csproj.CopyComplete
+E:\Online_Traning_Course\Online_Traning_Course\bin\ApplicationInsights.config
+E:\Online_Traning_Course\Online_Traning_Course\bin\roslyn\csc.exe
+E:\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Online_Traning_Course\Online_Traning_Course\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Online_Traning_Course\Online_Traning_Course\bin\roslyn\System.Collections.Immutable.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\roslyn\System.Reflection.Metadata.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\roslyn\vbc.exe
+E:\Online_Traning_Course\Online_Traning_Course\bin\roslyn\VBCSCompiler.exe
+E:\Online_Traning_Course\Online_Traning_Course\bin\roslyn\VBCSCompiler.exe.config
+E:\Online_Traning_Course\Online_Traning_Course\bin\Online_Traning_Course.dll.config
+E:\Online_Traning_Course\Online_Traning_Course\bin\Online_Traning_Course.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\Online_Traning_Course.pdb
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.DependencyCollector.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.Web.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.WindowsServer.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.ApplicationInsights.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.DependencyCollector.xml
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.Web.xml
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.AI.WindowsServer.xml
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.ApplicationInsights.xml
+E:\Online_Traning_Course\Online_Traning_Course\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.csprojAssemblyReference.cache
+E:\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.csproj.CoreCompileInputs.cache
+E:\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.csproj.CopyComplete
+E:\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.dll
+E:\Online_Traning_Course\Online_Traning_Course\obj\Debug\Online_Traning_Course.pdb
